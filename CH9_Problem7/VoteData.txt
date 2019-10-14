@@ -1,0 +1,5 @@
+Johnson 5000
+Miller 4000
+Duffy 6000
+Robinson 2500
+Ashtony 1800

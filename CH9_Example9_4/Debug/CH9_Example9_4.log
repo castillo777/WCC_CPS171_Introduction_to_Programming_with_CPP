@@ -1,0 +1,3 @@
+﻿  CH9_Example9_4.cpp
+c:\users\sergioc.campfire\documents\visual studio 2015\projects\cps171\ch9_example9_4\ch9_example9_4.cpp(57): error C4716: 'printNumbersInReverse': must return a value
+c:\users\sergioc.campfire\documents\visual studio 2015\projects\cps171\ch9_example9_4\ch9_example9_4.cpp(19): error C4700: uninitialized local variable 'sum' used

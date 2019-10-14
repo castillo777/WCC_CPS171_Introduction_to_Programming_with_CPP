@@ -1,0 +1,9 @@
+deddewwedwede
+Gross Amount: ............ $11234.00
+Federal Tax: ............. $1685.10
+State Tax: ............... $ 393.19
+Social Security Tax: ..... $ 645.96
+Medicare/Medicade Tax: ... $ 308.94
+Pension Plan: ............ $ 561.70
+Health Insurance: ........ $  75.00
+Net Pay: ................. $7564.12
